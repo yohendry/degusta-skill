@@ -9,7 +9,6 @@
   "author": "yohendry",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "cheerio": "~0.22.0",
-    "request": "~2.79.0"
+    "degusta-scrapper": "^1.0.0"
   }
 }
